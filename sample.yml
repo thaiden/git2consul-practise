@@ -1,2 +1,3 @@
 property_one: true
 property_two: false
+number_of_attempts: 3
